@@ -25,7 +25,7 @@ A aplicação foi publicada utilizando o GitHub Pages, uma ferramenta que permit
 
 O principal objetivo do projeto é praticar consumo de APIs e manipulação do DOM, além de desenvolver interfaces responsivas e funcionais para aplicações reais.
 
-## Links
+## 🖇️ Links
 
 Repositório: https://github.com/DevLuan1345/Previs-o
 
